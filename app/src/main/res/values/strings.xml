@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tourist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fp1n">Gate way of India</string>
+    <string name="fp1a">Colaba</string>
+
+    <string name="fp2n">CST Station</string>
+    <string name="fp2a">Fort</string>
+
+    <string name="f1n">VadaPav</string>
+    <string name="f2n">MisalPav</string>
+    <string name="fa1">Street</string>
+    <string name="fa2">MalabarHill</string>
+
+
+    <string name="p1n">Priya Darshni Park</string>
+    <string name="p2n">Hanging Garden</string>
+    <string name="pa1">Walkeshwar</string>
+    <string name="pa2">MalabarHill</string>
+
+    <string name="r1n">Taj</string>
+    <string name="r2n">Oberoi</string>
+    <string name="ra1">Colaba</string>
+    <string name="ra2">NarimanPoint</string>
+
+
+</resources>
